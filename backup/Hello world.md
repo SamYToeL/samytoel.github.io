@@ -1,5 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>SamLiao's random notes/山姆廖的随便乱写</title><link>https://samytoel.github.io</link><description>Just to quickly jog down something in case I forget</description><copyright>SamLiao's random notes/山姆廖的随便乱写</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://github.githubassets.com/favicons/favicon.svg</url><title>avatar</title><link>https://samytoel.github.io</link></image><lastBuildDate>Mon, 09 Mar 2026 01:46:47 +0000</lastBuildDate><managingEditor>SamLiao's random notes/山姆廖的随便乱写</managingEditor><ttl>60</ttl><webMaster>SamLiao's random notes/山姆廖的随便乱写</webMaster><item><title>Hello world</title><link>https://samytoel.github.io/post/Hello%20world.html</link><description>This is the first blog for this experiment github blog web. As a test. 
+This is the first blog for this experiment github blog web. As a test. 
 
 But what should i write for the very first blog? 
 
@@ -40,4 +39,3 @@ Thus, such expansion introduces contaminations from higher spin states. This is 
 
 ### Reference:
 Szabo A, Ostlund N S. Modern quantum chemistry: introduction to advanced electronic structure theory[M]. Courier Corporation, 2012.
-。</description><guid isPermaLink="true">https://samytoel.github.io/post/Hello%20world.html</guid><pubDate>Mon, 09 Mar 2026 00:39:42 +0000</pubDate></item></channel></rss>
